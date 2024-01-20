@@ -6,3 +6,4 @@ while d != 0:
     a+=1
     print(a)
     d-=1
+print("Thats all")
